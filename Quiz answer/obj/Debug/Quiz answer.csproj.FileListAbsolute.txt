@@ -1,0 +1,186 @@
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\Quiz answer.exe
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\Quiz answer.pdb
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.Office.v16.1.Core.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.Office.v16.1.Core.xml
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\obj\Debug\Quiz answer.csprojResolveAssemblyReference.cache
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\obj\Debug\Quiz_answer.Form1.resources
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\obj\Debug\Quiz_answer.Properties.Resources.resources
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\obj\Debug\Quiz answer.csproj.GenerateResource.Cache
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\obj\Debug\Quiz answer.exe.licenses
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\obj\Debug\Quiz answer.exe
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\obj\Debug\Quiz answer.pdb
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\obj\Debug\Quiz_answer.UC.ucTheotly.resources
+C:\Users\BEHUONG\Documents\BTL\Quiz answer\Quiz answer\obj\Debug\Quiz_answer.FomLogin.resources
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\obj\Debug\Quiz answer.exe
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\obj\Debug\Quiz answer.pdb
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\Quiz answer.exe
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\Quiz answer.pdb
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.Data.v16.1.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.Utils.v16.1.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraBars.v16.1.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.Office.v16.1.Core.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.Data.v16.1.xml
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.Utils.v16.1.xml
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraBars.v16.1.xml
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.Office.v16.1.Core.xml
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\obj\Debug\Quiz answer.csprojResolveAssemblyReference.cache
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\obj\Debug\Quiz_answer.FomLogin.resources
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\obj\Debug\Quiz_answer.Form1.resources
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\obj\Debug\Quiz_answer.Properties.Resources.resources
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\obj\Debug\Quiz_answer.UC.ucTheotly.resources
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\obj\Debug\Quiz answer.csproj.GenerateResource.Cache
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\obj\Debug\Quiz answer.exe.licenses
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\obj\Debug\Quiz_answer.UC.ucExercise.resources
+D:\Toeic\LỘ TRÌNH LUYỆN\Các buổi\Smart_learning_english\Quiz answer\Quiz answer\obj\Debug\Quiz answer.csproj.ResolveComReference.cache
